@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chakri0005
+- 👋 Hi, I’m @Chakri
 - 👀 I’m interested in codeing
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
